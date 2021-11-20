@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: black;
+    width: 100%;
+    height: 100px;
+    padding-top: 20px;
+}
+#todo{
+    height: 800px;
+}
+#cuerpo{
+    width: 70%;
+    background-color: rgb(71, 71, 71);
+    margin: 20px auto;
+    padding: 50px;
+}
+#app{
+    width: 55%;
+    background-color: rgb(0, 0, 0);
+    margin: 20px auto;
+    padding: 50px;
+}
+#titulo{
+    color: white;
+}
+#moneda{
+    color: rgba(255, 255, 255, 0.63);
+}
+footer{
+    background-color: black;
+    width: 100%;
+    height: 100px;
+    padding-top: 20px;
+}
